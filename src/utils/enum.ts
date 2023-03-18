@@ -1,0 +1,6 @@
+enum SYSTEM {
+  SUCCESS_CODE = 200,
+  TOKEN_INVALID_CODE = 401
+}
+
+export default SYSTEM
